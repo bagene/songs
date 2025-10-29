@@ -14,7 +14,7 @@
 - [ ] Other team member must review and approve the PR before merging
 
 ### Task 2
-- [ ] Each team member create new branches
+- [ ] Each team member create new branches for each of these items
    1. Update all the songs parts (verse/chorus/etc) to add `**` in the beginning and `**` at the end
         ```
       **I was a ghost, I was alone (hah)
