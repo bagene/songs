@@ -17,8 +17,10 @@
 
 ### Task 2
 
-- [ ] Each team member create new branches
+- [ ] Each team member create new branches for each of these items
+
   1.  Update all the songs parts (verse/chorus/etc) to add `**` in the beginning and `**` at the end
+
       ```
       **I was a ghost, I was alone (hah)
       어두워진 앞길 속에 (hah)
@@ -29,7 +31,22 @@
       Called a problem child 'cause I got too wild
       But now that's how I'm getting paid 끝없이 on stage**
       ```
+
+      **I was a ghost, I was alone (hah)
+      어두워진 앞길 속에 (hah)
+      Given the throne, I didn't know how to believe
+      I was the queen that I'm meant to be
+      I lived two lives, tried to play both sides
+      But I couldn't find my own place
+      Called a problem child 'cause I got too wild
+      But now that's how I'm getting paid 끝없이 on stage**
+
+      ```
+
+      ```
+
   2.  Update all the songs to add team name at the beginning and end of each lyrics
+
   ```
    Team Alpha
        I was a ghost, I was alone (hah)
@@ -49,7 +66,9 @@
        That's who we're born to be
    Team Alpha
   ```
+
   3.  Add the part name on the lyrics.
+
   ```
    [Verse 1]
    I was a ghost, I was alone (hah)
